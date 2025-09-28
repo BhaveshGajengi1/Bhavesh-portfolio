@@ -44,7 +44,7 @@
 Here is the folder structure of this app.
 
 ```bash
-space-portfolio/
+bhavesh-portfolio/
   |- app/
     |-- favicon.ico
     |-- globals.css
@@ -155,7 +155,7 @@ Useful resources and dependencies that are used in Space Portfolio.
 
 ## :rocket: Follow Me
 
-[![GitHub followers](https://img.shields.io/github/followers/sanidhyy?style=social&label=Follow&maxAge=2592000)](https://github.com/BhaveshGajengi1 "Follow Me")
+[![GitHub followers](https://img.shields.io/github/followers/BhaveshGajengi1?style=social&label=Follow&maxAge=2592000)](https://github.com/BhaveshGajengi1 "Follow Me")
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/bhavesh-gajengi-062393350/ "Connect on LinkedIn")
 ## :books: Learn More
 
@@ -178,11 +178,11 @@ You can also give this repository a star to show more people and they can use th
 
 ## :star2: Star History
 
-<a href="https://star-history.com/#sanidhyy/space-portfolio&Timeline">
+<a href="https://star-history.com/#BhaveshGajengi1/bhavesh-portfolio&Timeline">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=sanidhyy/space-portfolio&type=Timeline&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=sanidhyy/space-portfolio&type=Timeline" />
-  <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=sanidhyy/space-portfolio&type=Timeline" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=BhaveshGajengi1/bhavesh-portfolio&type=Timeline&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=BhaveshGajengi1/bhavesh-portfolio&type=Timeline" />
+  <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=BhaveshGajengi1/bhavesh-portfolio&type=Timeline" />
 </picture>
 </a>
 
