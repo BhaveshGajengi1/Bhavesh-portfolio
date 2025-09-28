@@ -14,9 +14,9 @@ export const Navbar = () => {
     <nav className="fixed top-0 left-0 w-full bg-[#03001427] backdrop-blur-md shadow-lg shadow-[#2A0E61]/50 z-50">
       <div className="flex items-center justify-between h-[70px] px-5 md:px-10">
         {/* Logo & Name */}
-        <Link 
-          href="#about-me" 
-          className="flex items-center gap-2" 
+        <Link
+          href="#about-me"
+          className="flex items-center gap-2"
           onClick={closeMenu}
         >
           <Image
@@ -28,16 +28,16 @@ export const Navbar = () => {
             className="cursor-pointer"
           />
           <span className="hidden sm:block text-white font-bold tracking-wide">
-            I'm Bhavesh Gajengi | Devoloper
+            I&apos;m Bhavesh Gajengi | Developer
           </span>
         </Link>
 
         {/* Desktop Navigation */}
         <div className="hidden md:flex items-center gap-8 bg-[rgba(3,0,20,0.37)] px-8 py-2 rounded-full border border-[rgba(112,66,248,0.38)] text-gray-200">
           {NAV_LINKS.map((link) => (
-            <Link 
-              key={link.title} 
-              href={link.link} 
+            <Link
+              key={link.title}
+              href={link.link}
               className="hover:text-[rgb(112,66,248)] transition font-medium"
             >
               {link.title}
@@ -48,10 +48,10 @@ export const Navbar = () => {
         {/* Social Links (Desktop) */}
         <div className="hidden md:flex items-center gap-5">
           {SOCIALS.map(({ link, name, icon: Icon }) => (
-            <Link 
-              key={name} 
-              href={link} 
-              target="_blank" 
+            <Link
+              key={name}
+              href={link}
+              target="_blank"
               rel="noopener noreferrer"
               className="flex items-center"
             >
@@ -91,10 +91,10 @@ export const Navbar = () => {
             {/* Mobile Links */}
             <div className="flex flex-col items-center space-y-8 text-lg font-medium">
               {NAV_LINKS.map((link) => (
-                <Link 
-                  key={link.title} 
-                  href={link.link} 
-                  onClick={closeMenu} 
+                <Link
+                  key={link.title}
+                  href={link.link}
+                  onClick={closeMenu}
                   className="hover:text-[rgb(112,66,248)] transition"
                 >
                   {link.title}
@@ -105,10 +105,10 @@ export const Navbar = () => {
             {/* Mobile Social Icons */}
             <div className="flex space-x-6 mt-10">
               {SOCIALS.map(({ link, name, icon: Icon }) => (
-                <Link 
-                  key={name} 
-                  href={link} 
-                  target="_blank" 
+                <Link
+                  key={name}
+                  href={link}
+                  target="_blank"
                   rel="noopener noreferrer"
                   className="flex items-center"
                 >
