@@ -1,11 +1,11 @@
 <a name="readme-top"></a>
 
-# Modern Space Theme Portfolio using Next.js 14 and Three.js
+# Bhavesh Gajengi - Full Stack Developer Portfolio
 
 ![Bhavesh Gajengi - Full Stack Developer Portfolio](/.github/images/img_main.png "Bhavesh Gajengi - Full Stack Developer Portfolio")
 
 [![Ask Me Anything!](https://flat.badgen.net/static/Ask%20me/anything?icon=github&color=black&scale=1.01)](https://github.com/BhaveshGajengi1 "Ask Me Anything!")
-[![GitHub license](https://flat.badgen.net/github/license/BhaveshGajengi1/bhavesh-portfolio?style=for-the-badge)](https://github.com/BhaveshGajengi1/bhavesh-portfolio/blob/main/LICENSE)
+[![GitHub license](https://flat.badgen.net/github/license/BhaveshGajengi1/bhavesh-portfolio?style=for-the-badge)](https://github.com/BhaveshGajengi1/bhavesh-portfolio/blob/main/LICENSE "Github license")
 [![Maintenance](https://flat.badgen.net/static/Maintained/yes?icon=github&color=black&scale=1.01)](https://github.com/BhaveshGajengi1/bhavesh-portfolio/commits/main "Maintenance")
 [![GitHub branches](https://flat.badgen.net/github/branches/BhaveshGajengi1/bhavesh-portfolio?icon=github&color=black&scale=1.01)](https://github.com/BhaveshGajengi1/bhavesh-portfolio/branches "GitHub branches")
 [![Github commits](https://flat.badgen.net/github/commits/BhaveshGajengi1/bhavesh-portfolio?icon=github&color=black&scale=1.01)](https://github.com/BhaveshGajengi1/bhavesh-portfolio/commits "Github commits")
