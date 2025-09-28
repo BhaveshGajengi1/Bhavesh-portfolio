@@ -2,15 +2,15 @@
 
 # Modern Space Theme Portfolio using Next.js 14 and Three.js
 
-![Modern Space Theme Portfolio using Next.js 14 and Three.js](/.github/images/img_main.png "Modern Space Theme Portfolio using Next.js 14 and Three.js")
+![Bhavesh Gajengi - Full Stack Developer Portfolio](/.github/images/img_main.png "Bhavesh Gajengi - Full Stack Developer Portfolio")
 
-[![Ask Me Anything!](https://flat.badgen.net/static/Ask%20me/anything?icon=github&color=black&scale=1.01)](https://github.com/sanidhyy "Ask Me Anything!")
-[![GitHub license](https://flat.badgen.net/github/license/sanidhyy/space-portfolio?icon=github&color=black&scale=1.01)](https://github.com/sanidhyy/space-portfolio/blob/main/LICENSE "GitHub license")
-[![Maintenance](https://flat.badgen.net/static/Maintained/yes?icon=github&color=black&scale=1.01)](https://github.com/sanidhyy/space-portfolio/commits/main "Maintenance")
-[![GitHub branches](https://flat.badgen.net/github/branches/sanidhyy/space-portfolio?icon=github&color=black&scale=1.01)](https://github.com/sanidhyy/space-portfolio/branches "GitHub branches")
-[![Github commits](https://flat.badgen.net/github/commits/sanidhyy/space-portfolio?icon=github&color=black&scale=1.01)](https://github.com/sanidhyy/space-portfolio/commits "Github commits")
-[![GitHub issues](https://flat.badgen.net/github/issues/sanidhyy/space-portfolio?icon=github&color=black&scale=1.01)](https://github.com/sanidhyy/space-portfolio/issues "GitHub issues")
-[![GitHub pull requests](https://flat.badgen.net/github/prs/sanidhyy/space-portfolio?icon=github&color=black&scale=1.01)](https://github.com/sanidhyy/space-portfolio/pulls "GitHub pull requests")
+[![Ask Me Anything!](https://flat.badgen.net/static/Ask%20me/anything?icon=github&color=black&scale=1.01)](https://github.com/BhaveshGajengi1 "Ask Me Anything!")
+[![GitHub license](https://flat.badgen.net/github/license/BhaveshGajengi1/bhavesh-portfolio?style=for-the-badge)](https://github.com/BhaveshGajengi1/bhavesh-portfolio/blob/main/LICENSE)
+[![Maintenance](https://flat.badgen.net/static/Maintained/yes?icon=github&color=black&scale=1.01)](https://github.com/BhaveshGajengi1/bhavesh-portfolio/commits/main "Maintenance")
+[![GitHub branches](https://flat.badgen.net/github/branches/BhaveshGajengi1/bhavesh-portfolio?icon=github&color=black&scale=1.01)](https://github.com/BhaveshGajengi1/bhavesh-portfolio/branches "GitHub branches")
+[![Github commits](https://flat.badgen.net/github/commits/BhaveshGajengi1/bhavesh-portfolio?icon=github&color=black&scale=1.01)](https://github.com/BhaveshGajengi1/bhavesh-portfolio/commits "Github commits")
+[![GitHub issues](https://flat.badgen.net/github/issues/BhaveshGajengi1/bhavesh-portfolio?icon=github&color=black&scale=1.01)](https://github.com/BhaveshGajengi1/bhavesh-portfolio/issues "GitHub issues")
+[![GitHub pull requests](https://flat.badgen.net/github/prs/BhaveshGajengi1/bhavesh-portfolio?icon=github&color=black&scale=1.01)](https://github.com/BhaveshGajengi1/bhavesh-portfolio/pulls "GitHub pull requests")
 [![Netlify Status](https://api.netlify.com/api/v1/badges/451ed0e0-3541-474e-896a-4987e30a7722/deploy-status)](https://spaceportfolio.netlify.app/ "Netlify Status")
 
 <!-- Table of Contents -->
@@ -103,13 +103,13 @@ space-portfolio/
 
 ## :camera: Screenshots:
 
-![Modern UI/UX](/.github/images/img1.png "Modern UI/UX")
+![Bhavesh Portfolio - Hero Section](/.github/images/img1.png "Modern Hero Section with 3D Animations")
 
-![Showcase your skills](/.github/images/img2.png "Showcase your skills")
+![Skills & Technologies](/.github/images/img2.png "Showcasing Technical Skills")
 
-![Built with Typescript](/.github/images/img3.png "Built with Typescript")
+![Projects Showcase](/.github/images/img3.png "Featured Projects Display")
 
-![Showcase your projects](/.github/images/img4.png "Showcase your projects")
+![Modern Design](/.github/images/img4.png "Responsive UI/UX Design")
 
 ## :gear: Tech Stack
 
@@ -151,14 +151,12 @@ Useful resources and dependencies that are used in Space Portfolio.
 
 ## :coffee: Buy Me a Coffee
 
-[<img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" width="200" />](https://www.buymeacoffee.com/sanidhy "Buy me a Coffee")
+[<img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" width="200" />](https://www.buymeacoffee.com/bhaveshgajengi "Buy me a Coffee")
 
 ## :rocket: Follow Me
 
-[![GitHub followers](https://img.shields.io/github/followers/sanidhyy?style=social&label=Follow&maxAge=2592000)](https://github.com/sanidhyy "Follow Me")
-[![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FTechnicalShubam)](https://twitter.com/intent/tweet?text=Check+out+this+amazing+app:&url=https%3A%2F%2Fgithub.com%2Fsanidhyy%2Fspace-portfolio "Tweet")
-[![YouTube](https://img.shields.io/youtube/channel/subscribers/UCNAz_hUVBG2ZUN8TVm0bmYw)](https://www.youtube.com/@OPGAMER. "Subscribe my YouTube Channel")
-
+[![GitHub followers](https://img.shields.io/github/followers/sanidhyy?style=social&label=Follow&maxAge=2592000)](https://github.com/BhaveshGajengi1 "Follow Me")
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/bhavesh-gajengi-062393350/ "Connect on LinkedIn")
 ## :books: Learn More
 
 To learn more about Next.js, take a look at the following resources:
