@@ -21,7 +21,7 @@ export const HeroContent = () => {
         >
           <SparklesIcon className="text-[#b49bff] h-4 w-4 md:h-5 md:w-5" />
           <h1 className="text-[12px] md:text-[13px] text-gray-200 font-semibold">
-            Fullstack Developer
+            Full Stack Developer
           </h1>
         </motion.div>
 
@@ -30,13 +30,13 @@ export const HeroContent = () => {
           variants={slideInFromLeft(0.5)}
           className="text-3xl sm:text-4xl md:text-6xl font-bold text-white max-w-[600px] leading-tight"
         >
-          Transforming{" "}
+          Building{" "}
           <span className="text-transparent bg-clip-text bg-gradient-to-r from-purple-500 to-cyan-500">
-            Ideas
+            Digital
           </span>{" "}
-          into Seamless User{" "}
+          Solutions with{" "}
           <span className="text-transparent bg-clip-text bg-gradient-to-r from-purple-500 to-cyan-500">
-            Experiences
+            Clean Code
           </span>
         </motion.h1>
 
@@ -45,7 +45,7 @@ export const HeroContent = () => {
           variants={slideInFromLeft(0.8)}
           className="text-base sm:text-lg text-gray-400 my-3 sm:my-4 max-w-[500px] mx-auto md:mx-0"
         >
-          I&apos;m a Full Stack Software Engineer specializing in building modern web applications. Check out my projects and skills.
+          Full-Stack Dev | I speak fluent JavaScript, Python, and bug-fixing. Tech enthusiast turning ideaas into functional reality. Debugger by nature. Coffee-fueled code craftsman
         </motion.p>
 
         {/* Call-to-Action Button */}
