@@ -4,14 +4,14 @@
 
 ![Bhavesh Gajengi - Full Stack Developer Portfolio](/.github/images/img_main.png "Bhavesh Gajengi - Full Stack Developer Portfolio")
 
-[![Ask Me Anything!](https://flat.badgen.net/static/Ask%20me/anything?icon=github&color=black&scale=1.01)](https://github.com/BhaveshGajengi1 "Ask Me Anything!")
-[![GitHub license](https://flat.badgen.net/github/license/BhaveshGajengi1/bhavesh-portfolio?style=for-the-badge)](https://github.com/BhaveshGajengi1/bhavesh-portfolio/blob/main/LICENSE "Github license")
-[![Maintenance](https://flat.badgen.net/static/Maintained/yes?icon=github&color=black&scale=1.01)](https://github.com/BhaveshGajengi1/bhavesh-portfolio/commits/main "Maintenance")
-[![GitHub branches](https://flat.badgen.net/github/branches/BhaveshGajengi1/bhavesh-portfolio?icon=github&color=black&scale=1.01)](https://github.com/BhaveshGajengi1/bhavesh-portfolio/branches "GitHub branches")
-[![Github commits](https://flat.badgen.net/github/commits/BhaveshGajengi1/bhavesh-portfolio?icon=github&color=black&scale=1.01)](https://github.com/BhaveshGajengi1/bhavesh-portfolio/commits "Github commits")
-[![GitHub issues](https://flat.badgen.net/github/issues/BhaveshGajengi1/bhavesh-portfolio?icon=github&color=black&scale=1.01)](https://github.com/BhaveshGajengi1/bhavesh-portfolio/issues "GitHub issues")
-[![GitHub pull requests](https://flat.badgen.net/github/prs/BhaveshGajengi1/bhavesh-portfolio?icon=github&color=black&scale=1.01)](https://github.com/BhaveshGajengi1/bhavesh-portfolio/pulls "GitHub pull requests")
-[![Netlify Status](https://api.netlify.com/api/v1/badges/451ed0e0-3541-474e-896a-4987e30a7722/deploy-status)](https://spaceportfolio.netlify.app/ "Netlify Status")
+[![Ask Me Anything!](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://github.com/BhaveshGajengi1 "Ask Me Anything!")
+[![GitHub license](https://img.shields.io/github/license/BhaveshGajengi1/bhavesh-portfolio?style=for-the-badge)](https://github.com/BhaveshGajengi1/bhavesh-portfolio/blob/main/LICENSE "Github license")
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/BhaveshGajengi1/bhavesh-portfolio/commits/main "Maintenance")
+[![GitHub branches](https://badgen.net/github/branches/BhaveshGajengi1/bhavesh-portfolio)](https://github.com/BhaveshGajengi1/bhavesh-portfolio/branches "GitHub branches")
+[![GitHub commits](https://badgen.net/github/commits/BhaveshGajengi1/bhavesh-portfolio)](https://github.com/BhaveshGajengi1/bhavesh-portfolio/commits "Github commits")
+[![GitHub issues](https://img.shields.io/github/issues/BhaveshGajengi1/bhavesh-portfolio)](https://github.com/BhaveshGajengi1/bhavesh-portfolio/issues "GitHub issues")
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/BhaveshGajengi1/bhavesh-portfolio)](https://github.com/BhaveshGajengi1/bhavesh-portfolio/pulls "GitHub pull requests")
+[![Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black)](https://bhaveshgajengi.vercel.app/ "Vercel")
 
 <!-- Table of Contents -->
 <details>
