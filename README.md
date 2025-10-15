@@ -156,7 +156,7 @@ Useful resources and dependencies that are used in Space Portfolio.
 ## :rocket: Follow Me
 
 [![GitHub followers](https://img.shields.io/github/followers/BhaveshGajengi1?style=social&label=Follow&maxAge=2592000)](https://github.com/BhaveshGajengi1 "Follow Me")
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/bhavesh-gajengi-062393350/ "Connect on LinkedIn")
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/bhaveshgajengi/ "Connect on LinkedIn")
 ## :books: Learn More
 
 To learn more about Next.js, take a look at the following resources:
