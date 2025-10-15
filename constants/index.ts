@@ -86,7 +86,7 @@ export const SOCIALS = [
   {
     name: "LinkedIn",
     icon: RxLinkedinLogo,
-    link: "https://www.linkedin.com/in/bhavesh-gajengi-062393350/",
+    link: "https://www.linkedin.com/in/bhaveshgajengi/",
   },
   {
     name: "GitHub",
@@ -160,11 +160,19 @@ export const BACKEND_SKILL = [
     height: 80,
   },
 ] as const;
+export const FULLSTACK_SKILL: Array<{
+  skill_name: string;
+  image: string;
+  width: number;
+  height: number;
+}> = [];
 
-export const FULLSTACK_SKILL = [] as const;
-
-export const OTHER_SKILL = [] as const;
-
+export const OTHER_SKILL: Array<{
+  skill_name: string;
+  image: string;
+  width: number;
+  height: number;
+}> = [];
 export const PROJECTS = [
   {
     title: "🚀Bhavesh Portfolio",
