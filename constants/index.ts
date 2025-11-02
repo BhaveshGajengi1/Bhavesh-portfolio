@@ -214,7 +214,7 @@ export const FOOTER_DATA = [
       {
         name: "LinkedIn",
         icon: RxLinkedinLogo,
-        link: "https://www.linkedin.com/in/bhavesh-gajengi-062393350/",
+        link: "https://www.linkedin.com/in/bhaveshgajengi/",
       },
     ],
   },
